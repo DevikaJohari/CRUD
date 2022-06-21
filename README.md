@@ -1,2 +1,2 @@
-# CRUD
-A simple CRUD application using Node.js and link it with MySQL database 
+# User Data Management application 
+A simple Create Read Update Delete commands on MYSQL database using Node.js.
